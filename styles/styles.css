@@ -124,7 +124,7 @@
 .hot-deal-container{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;  
     background-color: #E554731A;
 }
 
@@ -164,7 +164,7 @@
 }
 
 .ig-pic{
-    max-width: 328px;
+    max-width: 285px;
 }
 
 /* subscribtion form styles */
