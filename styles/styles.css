@@ -161,3 +161,27 @@
     align-items: center;
     margin-top: 40px;
 }
+
+/* subscribtion form styles */
+.subscription-form{
+    margin: 70px 250px;
+    padding: 50px;
+    border-radius: 8px;
+    background: url('../Assets/Rectangle9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+}
+
+.subs-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-top: 30px;
+}
+
+.subs-form input[type='email']{
+    background-color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    width: 50%;
+    padding: 19px 50px;
+}
