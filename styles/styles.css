@@ -185,3 +185,48 @@
     width: 50%;
     padding: 19px 50px;
 }
+
+/* footer section styles */
+
+.footer-container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #111010;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.logo{
+    color: #fff;
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+
+.logo-red{
+    color: #E55473;
+}
+
+.footer-logo-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.web-copyright-container{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF66;
+    background-color: #111010;
+}
+
+.web-domain-link a{
+    text-decoration: none;
+    color: #E55473;
+    font-size: 18px;
+    font-weight: 700;
+}
