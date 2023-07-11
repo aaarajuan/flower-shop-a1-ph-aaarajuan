@@ -170,7 +170,7 @@
 /* subscribtion form styles */
 .subscription-form{
     margin: 70px 250px;
-    padding: 50px;
+    padding: 70px;
     border-radius: 8px;
     background: url('../Assets/Rectangle9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
 }
@@ -188,7 +188,7 @@
     border: 0px;
     border-radius: 5px;
     width: 50%;
-    padding: 19px 50px;
+    padding: 19px;
 }
 
 /* footer section styles */
@@ -199,8 +199,8 @@
     text-align: center;
     background-color: #111010;
     color: #fff;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .logo{
