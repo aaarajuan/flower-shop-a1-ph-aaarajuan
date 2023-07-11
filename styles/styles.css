@@ -117,3 +117,33 @@
 .delivery-description{
     color: #272727CC;
 }
+
+/* hot deal section styles */
+.hot-deal-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E554731A;
+}
+
+.hot-deal-content{
+    max-width: 900px;
+}
+
+.hot-deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.hot-deal-description{
+    color: #272727;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.hot-deal-img{
+    max-width: 300px;
+}
