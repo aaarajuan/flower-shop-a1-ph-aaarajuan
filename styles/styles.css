@@ -151,6 +151,9 @@
 }
 
 /* instagram section styles */
+.instagram-container{
+    margin: 0px 250px;
+}
 .ig-images{
     display: flex;
     gap: 30px;
