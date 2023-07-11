@@ -46,3 +46,67 @@
 .banner > .banner-pic{
     width: 635px;
 }
+
+/* Our Featured Flowers section styles */
+
+.off-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 50px;
+}
+
+.off-description{
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.flowers-container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding: 0px 20px;
+    margin-top: 50px;
+}
+
+.flower{
+    padding: 20px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.f-title{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+/* delivery section styles */
+
+.delivery-section{
+    padding: 50px 150px;
+}
+
+.delivery-container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.delivery{
+    text-align: center;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06)
+}
+
+.delivery-description {
+    color: #757575
+}
