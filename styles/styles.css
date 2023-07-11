@@ -95,7 +95,7 @@
 
 .delivery-section{
     align-items: center;
-    margin: 70px 250px;
+    margin: 70px 325px;
     border-radius: 8px;
     background-color: rgba(39, 39, 39, 0.05);
 }
@@ -169,7 +169,7 @@
 
 /* subscribtion form styles */
 .subscription-form{
-    margin: 70px 250px;
+    margin: 70px 325px;
     padding: 70px;
     border-radius: 8px;
     background: url('../Assets/Rectangle9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
