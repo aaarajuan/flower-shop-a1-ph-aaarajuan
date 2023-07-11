@@ -1,4 +1,6 @@
 *{
+    margin: 0px;
+    padding: 0px;
     font-family: 'Lato', sans-serif;
 }
 
@@ -64,22 +66,24 @@
 
 .flowers-container{
     display: flex;
-    gap: 30px;
     justify-content: center;
-    padding: 0px 20px;
+    gap: 30px;
+    padding: 10px;
     margin-top: 50px;
 }
 
 .flower{
-    padding: 20px;
+    padding: 30px;
     border-radius: 300px 300px 0px 0px;
     background-color: rgba(167, 33, 98, 0.15);
-    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
 
 .f-title{
+    margin: 20px 335px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     color: #272727;
-    text-align: center;
     font-size: 24px;
     font-weight: 700;
     text-decoration-line: underline;
@@ -88,23 +92,28 @@
 /* delivery section styles */
 
 .delivery-section{
-    padding: 50px 150px;
+    align-items: center;
+    margin: 70px 335px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
 }
 
 .delivery-container{
     display: flex;
-    gap: 30px;
     justify-content: center;
+    gap: 30px;
+    padding: 10px;
 }
 
 .delivery{
-    text-align: center;
     padding: 30px;
-    border-radius: 5px;
-    background-color: #FFF;
-    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06)
+    text-align: center;
 }
 
-.delivery-description {
-    color: #757575
+.delivery-img{
+    max-width: 60px;
+}
+
+.delivery-description{
+    color: #272727CC;
 }
